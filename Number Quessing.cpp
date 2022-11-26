@@ -1,7 +1,6 @@
 #include <iostream>
 /*
 --- Number Guess Game ----
-Created by Diardano Raihan
 */
 
 using namespace std;
