@@ -1,6 +1,3 @@
-//NAME-RISHU RAJAN
-//REG. N0-2019PGCACA82
-
 #include<bits/stdc++.h>
 #include<iostream>
 #include<vector>
