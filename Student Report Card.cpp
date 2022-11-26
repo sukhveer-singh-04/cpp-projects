@@ -179,7 +179,7 @@ void display_sp(int n)
 	}
 	inFile.close();
 	if(!flag)
-		cout<<"\n\nrecord not exist";
+		cout<<"\n\nrecord does not exist";
 	cin.ignore();
 	cin.get();
 }
@@ -303,8 +303,7 @@ void intro()
 {
 	cout<<"\n\n\n\t\t  STUDENT";
 	cout<<"\n\n\t\tREPORT CARD";
-	cout<<"\n\n\t\t  PROJECT";
-	cout<<"\n\n\n\tMADE BY : ADITYA SARAWAT";
+	cout<<"\n\n\t\t  PROJECT\n";
 	cin.get();
 }
 
